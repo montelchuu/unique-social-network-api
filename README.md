@@ -1,6 +1,10 @@
 # unique-social-network-api
 ### license: Unlicensed [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
+## Walkthrough Video
+
+- https://drive.google.com/file/d/1YZnwhIapxIq3BE2-eBZuFrZga_bHNvAK/view
+
 ### Github URL: [montelchuu](https://github.com/montelchuu/)
 
 # Description
